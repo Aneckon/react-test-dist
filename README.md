@@ -1,7 +1,3 @@
-#### You can visit the [deployed app](https://ssda-developer.github.io/react-test-dist/).
-
-## Test Assignment
-
 ### Requirements:
 - Use React
 - Do not use third-party libraries for styles
